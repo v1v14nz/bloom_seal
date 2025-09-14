@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(255, 248, 242);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+    font-size:18px;
+}
+h3{
+    font-size:25px;
+    font-weight:bold;
+    background-color:rgb(235, 179, 188);
+    width: 80%;
+    padding: 0.3em;
+    text-align:center;
+    margin:auto;
+    
+}
+/*title/header formatting*/
+
+.quote{
+    font-style:italic;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.centered{
+    text-align:center;
+}
+
+/* bloom & seal colors (?) */
+#pink{
+    color:rgb(193, 119, 132);
+}
+
+.greetingcard{
+    box-shadow:5px 5px 10px rgb(151, 127, 133);
+}
+
+.coolheading{
+    border-style:double;
+    border-width:8px;
+    text-align: center;
+    border-color:rgb(186, 110, 132);
+    background-color:rgb(250, 227, 233);
+    width:70%;
+    margin:auto;
+    padding: 0.5em;
+}
+.container{
+    margin:auto;
+    width:85%;
+
+}
+h5{
+    text-align:center;
+}
+/*todo:
+add bgpink to certain sections
+add more pictures(upload)
+*/
